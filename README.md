@@ -2,7 +2,7 @@
 
 This is the code and the dataset for the paper titled 
 
->[CoReRank: Ranking to Detect Users Involved in Blackmarket-based Collusive Retweeting Activities. *Aditya Chetan\*, Brihi Joshi\*, Hridoy Sankar Dutta\*, Tanmoy Chakraborty*]
+>CoReRank: Ranking to Detect Users Involved in Blackmarket-based Collusive Retweeting Activities. *Aditya Chetan\*, Brihi Joshi\*, Hridoy Sankar Dutta\*, Tanmoy Chakraborty*
 
 accepted at [The Twelfth ACM International Conference on Web Search and Data Mining (WSDM’19), February 11--15, 2019, Melbourne, VIC, Australia](http://www.wsdm-conference.org/2019/).
 
