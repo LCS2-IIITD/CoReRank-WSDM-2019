@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/LCS2-IIITD/CoReRank-WSDM-2019.svg)](http://hits.dwyl.io/LCS2-IIITD/CoReRank-WSDM-2019)
 # CoReRank: Ranking to Detect Users Involved in Blackmarket-based Collusive Retweeting Activities
 
 This is the code and the dataset for the paper titled 
