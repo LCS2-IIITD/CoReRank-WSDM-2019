@@ -9,7 +9,7 @@
 - ```annotated_users_anonymized.csv``` : Manually annotated users with UserIDs replaced for anonymity.
 	- ```0``` : means that the user had submitted a tweet to a Blackmarket service or have been examined by manual annotators and marked as __'collusive'__
 	- ```1``` : means that the user was a followee of a verified user in our dataset or have been examined by manual annotators and marked as __'genuine'__
-- ```birdnest_tweets_data_anonymized.csv``` : ```Birdnest``` scores for the tweets in the graph
-- ```birdnest_users_data_anonymized.csv``` : ```Birdnest``` scores for users in the graph
+- ```birdnest_tweets_data_anonymized.csv``` : __```Birdnest```__ scores for the tweets in the graph
+- ```birdnest_users_data_anonymized.csv``` : __```Birdnest```__ scores for users in the graph
 - ```sim_df_anonymized.csv``` : Topical similarity scores for users in the graph
 
