@@ -7,7 +7,7 @@ This is the code and the dataset for the paper titled
 
 accepted at [The Twelfth ACM International Conference on Web Search and Data Mining (WSDM’19), February 11--15, 2019, Melbourne, VIC, Australia](http://www.wsdm-conference.org/2019/).
 
-If you end up using this code or the data, please cite the following paper - 
+If you end up using this code or the data, please cite our paper: 
 
 ```
 @inproceedings{Chetan:2019:CRD:3289600.3291010,
@@ -49,6 +49,10 @@ python corerank.py
 ```
 This will generate rankings for the tweets and users present in the Graph as present in the paper.
 Provide appropriate paths for data files and parameters in ```constants.py```.
+
+# Contact
+
+If you face any problem in running this code, you can contact us at aditya16217\[at\]iiitd\[dot\]ac\[dot\]in or brihi16142\[at\]iiitd\[dot\]ac\[dot\]in or hridoyd\[at\]iiitd\[dot\]ac\[dot\]in
 
 # License 
 
